@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30709.132
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Prata_S_part 6", "Prata_S_part 6\Prata_S_part 6.vcxproj", "{489939ED-BB5A-42EF-AAD2-A5F7F96ED23D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{489939ED-BB5A-42EF-AAD2-A5F7F96ED23D}.Debug|x64.ActiveCfg = Debug|x64
+		{489939ED-BB5A-42EF-AAD2-A5F7F96ED23D}.Debug|x64.Build.0 = Debug|x64
+		{489939ED-BB5A-42EF-AAD2-A5F7F96ED23D}.Debug|x86.ActiveCfg = Debug|Win32
+		{489939ED-BB5A-42EF-AAD2-A5F7F96ED23D}.Debug|x86.Build.0 = Debug|Win32
+		{489939ED-BB5A-42EF-AAD2-A5F7F96ED23D}.Release|x64.ActiveCfg = Release|x64
+		{489939ED-BB5A-42EF-AAD2-A5F7F96ED23D}.Release|x64.Build.0 = Release|x64
+		{489939ED-BB5A-42EF-AAD2-A5F7F96ED23D}.Release|x86.ActiveCfg = Release|Win32
+		{489939ED-BB5A-42EF-AAD2-A5F7F96ED23D}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8BAC1EDF-9F4A-4C6F-B529-864C877F4AC7}
+	EndGlobalSection
+EndGlobal
